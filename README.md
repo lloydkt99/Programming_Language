@@ -10,10 +10,10 @@
 # 課程筆記區
 
 # 作業區
-[HW1](https://github.com/lloydkt99/PL/blob/main/hw1/hw1.ipynb)
-[HW2]
-[HW3]
-[HW4]
-[HW5]
+-[HW1](https://github.com/lloydkt99/PL/blob/main/hw1/hw1.ipynb)
+-[HW2]
+-[HW3]
+-[HW4]
+-[HW5]
 
 # 專題區
