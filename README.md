@@ -14,5 +14,6 @@
 - [HW2](https://github.com/lloydkt99/PL/blob/main/hw2/hw2.ipynb)
 - [HW3](https://github.com/lloydkt99/PL/blob/main/hw3/hw3.ipynb)
 - [HW4](https://github.com/lloydkt99/PL/tree/main/hw4/hw4.ipynb) & [MEDIUM](https://medium.com/@40847058s/imdb-top-director-35b29c41b8)
+- [HW5](https://github.com/lloydkt99/PL/blob/main/hw5/hw5.ipynb) & [MEDIUM](https://medium.com/@40847058s/top-genre-in-imdb-top-250-movies-dataset-9e45ca67975f)
 
 # 專題區
