@@ -17,3 +17,4 @@
 - [HW5](https://github.com/lloydkt99/PL/blob/main/hw5/hw5.ipynb) & [MEDIUM](https://medium.com/@40847058s/top-genre-in-imdb-top-250-movies-dataset-9e45ca67975f)
 
 # 專題區
+- [Final Project](https://youtu.be/x6-rpfhikXM)
